@@ -44,8 +44,6 @@ pip install -r requirements.txt
 - Jupyter Notebook
 - Les packages listés dans `requirements.txt`
 
-## 📝 Licence
-Ce projet est sous licence MIT.
 
 ## 👥 Contribution
 Les contributions sont les bienvenues ! N'hésitez pas à :
